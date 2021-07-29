@@ -18,7 +18,6 @@ iknij ikonę rozszerzenia. Wybierz `Open options page`. W nowej karcie pojawi si
 
 # Galeria
 Możesz przejrzeć poniższe zdjęcia, aby zobaczyć, jak wygląda efekt :)
-![1](https://user-images.githubusercontent.com/68116256/127512431-d9cef7ae-48b1-4602-96b9-c10eb85259f0.png)
 ![2](https://user-images.githubusercontent.com/68116256/127512433-ec016294-63e7-41c5-82d2-1143c5226f4c.png)
 ![3](https://user-images.githubusercontent.com/68116256/127512442-9a3c4e08-06ba-4b48-a1d9-39d1e8d95c87.png)
 ![4](https://user-images.githubusercontent.com/68116256/127512449-ef060dc1-df08-47c2-a0f5-ebe7099d0687.png)
@@ -30,6 +29,7 @@ Możesz przejrzeć poniższe zdjęcia, aby zobaczyć, jak wygląda efekt :)
 ![10](https://user-images.githubusercontent.com/68116256/127512465-53019614-209f-4d91-a1ec-932d46aa33ab.png)
 ![11](https://user-images.githubusercontent.com/68116256/127512467-63401247-0bf9-420c-974f-d6e0a253aecf.png)
 ![12](https://user-images.githubusercontent.com/68116256/127512470-9a9a4dd7-31ae-4d31-a96f-da1f4416850f.png)
+![1](https://user-images.githubusercontent.com/68116256/127512431-d9cef7ae-48b1-4602-96b9-c10eb85259f0.png)
 <hr>
 
 wykonanie i instrukja: jacekz123
